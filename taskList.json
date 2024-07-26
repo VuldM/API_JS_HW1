@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Занятие 1",
+    "time_event": "9:00",
+    "max_quantity_puple": 10,
+    "current_quantity_puple": 9,
+    "flag": false
+  },
+  {
+    "name": "Занятие 2",
+    "time_event": "11:00",
+    "max_quantity_puple": 10,
+    "current_quantity_puple": 8,
+    "flag": false
+  },
+  {
+    "name": "Занятие 3",
+    "time_event": "13:00",
+    "max_quantity_puple": 10,
+    "current_quantity_puple": 5,
+    "flag": false
+  },
+  {
+    "name": "Занятие 4",
+    "time_event": "15:00",
+    "max_quantity_puple": 10,
+    "current_quantity_puple": 3,
+    "flag": false
+  }
+]
